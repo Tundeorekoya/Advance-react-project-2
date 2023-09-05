@@ -7,7 +7,7 @@ import logo from '../../assets/logo.svg'
 // Bem -> block Element modifier
 const Menu =() =>(
  <>
-    <p><a href='#home'>Home</a></p>
+          <p><a href='#home'>Home</a></p>
           <p><a href='# WhatGPT3'>What is GPT</a></p>
           <p><a href='#possibility'>Open AI</a></p>
           <p><a href='#Featurres'>Case Studies</a></p>

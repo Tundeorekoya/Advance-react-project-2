@@ -9,7 +9,6 @@ import {
 } from "./containers";
 import { Brand, Cta, Navbar } from "./components";
 
-
 function App() {
   return (
     <div className="App">
